@@ -29,6 +29,5 @@ The project focuses on using semantic HTML tags, meta tags, and basic structure.
 
 ## 🌐 Project Live Link
 
-[Open Live Project]  (https://vamsikrishnakema-dev.github.io/Single-Page-HTML-CV-project/)
-``
+[Open Live Project](https://vamsikrishnakema-dev.github.io/Single-Page-HTML-CV-project/)
 
