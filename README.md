@@ -32,3 +32,7 @@ The project focuses on using semantic HTML tags, meta tags, and basic structure.
 https://vamsikrishnakema-dev.github.io/Single-Page-HTML-CV-project/
 
 
+## Project URL
+https://vamsikrishnakema-dev.github.io/Single-Page-HTML-CV-project/
+
+
