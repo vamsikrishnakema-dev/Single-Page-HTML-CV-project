@@ -33,6 +33,6 @@ https://vamsikrishnakema-dev.github.io/Single-Page-HTML-CV-project/
 
 
 ## Project URL
-https://vamsikrishnakema-dev.github.io/Single-Page-HTML-CV-project/
+https://vamsikrishnakema-dev.github.io/Single-Page-HTML-CV-project
 
 
