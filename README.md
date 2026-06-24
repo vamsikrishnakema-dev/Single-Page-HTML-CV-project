@@ -25,5 +25,9 @@ The project focuses on using semantic HTML tags, meta tags, and basic structure.
    ```bash
    git clone https://github.com/your-username/Single-Page-HTML-CV-project.git
 
-   ## 🌐 Project Live Link
+
+
+## 🌐 Project Live Link
+
 https://vamsikrishnakema-dev.github.io/Single-Page-HTML-CV-project/
+
