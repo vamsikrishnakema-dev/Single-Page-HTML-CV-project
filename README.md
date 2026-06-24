@@ -35,4 +35,5 @@ https://vamsikrishnakema-dev.github.io/Single-Page-HTML-CV-project/
 ## Project URL
 https://vamsikrishnakema-dev.github.io/Single-Page-HTML-CV-project
 
-
+## Project URL
+https://roadmap.sh/projects/single-page-cv
